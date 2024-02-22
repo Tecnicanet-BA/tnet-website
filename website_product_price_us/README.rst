@@ -8,7 +8,7 @@ Product Price in USD on Website
    !! changes will be overwritten.                   !!
    !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 
-Éste módulo te permitirá establecer cómo costo del producto al precio de compra. Si la compra se hizo en dólares, el costo estará en dólares. Cuenta con un campo “Tasa de Rentabilidad” que multiplica al costo y devuelve el precio de venta en dólares en el sitio web.
+Éste módulo reemplazará el campo "precio de venta" default de Odoo por un campo de precio de venta en USD. Además, te permitirá basar tarifas tomando como referencia este campo.
 
 **Table of contents**
 
